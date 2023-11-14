@@ -1,2 +1,3 @@
-# mkdocs-blog
-mkdocs-blog
+## mkdocs-blog
+
+Hello, Material for MkDocs!
