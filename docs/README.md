@@ -1,1 +1,0 @@
-Hello, Material for MkDocs!
